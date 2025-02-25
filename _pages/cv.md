@@ -14,7 +14,7 @@ Education
 * Ph.D. candidate in Mathematics, Nanjing University, 2011
 * B.S. in Computer Science and Technolodge, Nanjing University, 2008
 
-Work experience
+Employment
 ======
 * Great Bay University
   * Assistant Professor: Jun 2024 - present
