@@ -6,14 +6,17 @@
 
 main:
 
-  - title: "CV"
-    url: /cv/
+  - title: "Publication"
+    url: /publication/   
     
   - title: "Teaching"
     url: /teaching/    
          
   - title: "Seminar"
     url: /talks/
+
+  - title: "CV"
+    url: /cv/
     
   - title: "About me"
     url: /markdown/
