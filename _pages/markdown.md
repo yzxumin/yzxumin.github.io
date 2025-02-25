@@ -10,24 +10,38 @@ I was born and raised in Yizheng City, Jiangsu Province, China. Freedom and peac
 
 The little one was born at Jersey City Medical Center, NJ, 2020.
 
+<br/><img src='/images/jiangrui.jpg' width = '300'>
 
 My Chinese poem (just for fun):
+
 梦今生 (Dream of life)
+
 By Xumin Jiang, Feb 9, 2007
 
 游莲下似双叶剪
+
 清曲古渡萧人远
+
 笛许忻县落红迁
+
 一降晴光含玉濂
+
 紫蚕伴古难入梦
+
 茗声朗朗卷字帘
+
 青彤碧华光良愿
+
 苦更自壁纫锵乾
+
 耽思夜谧缕寸衫
+
 红楼潇湘睡梦连
+
 萧蔷一念丹空去
-炳坤喻为天下知
- 
+
+炳坤喻为天下知  
+
 箜篌蔽叶昆仑剑
 荒桦凤鸣已十年
 蒲缛檀古飘暮雪
