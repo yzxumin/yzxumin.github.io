@@ -15,9 +15,12 @@ You can find my [CV](../assets/CV.pdf) here.
 
 <br/><img src='/images/pic1.jpg' width = '500'>
 
+
 Email: xjiang@gbu.edu.cn
 
+
 Office: B502 Academic Building
+
 
 Mailing Address:
 
