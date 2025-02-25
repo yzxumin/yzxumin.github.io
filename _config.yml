@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Main"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xumin Jiang"
 description              : &description "personal description"
