@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Main"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xumin Jiang"
 description              : &description "personal description"
 url                      : https://yzxumin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "img_0932.JPG"
   name             : "Xumin Jiang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "Professor"  
   bio              : "Assistant Professor in Mathematics"
-  location         : "Earth"
+  location         : "Dongguan, Guangdong, China"
   employer         : "Great Bay University"
   uri              : "https://www.gbu.edu.cn/detail/article/1051?lang=en"
   email            : "xjiang@gbu.edu.cn" 
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-6181-66"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
