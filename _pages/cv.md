@@ -17,17 +17,15 @@ Education
 
 Work experience
 ======
-* Fall 2024: Assistant Professor
-  * Great Bay University
+* Great Bay University
+  * Lecturer: Jun 2024 - present
 
-* Fall 2023: Lecturer
-  * Fordham University
-
-* Fall 2019: P.M.C Visiting Assistant Professor
-  * Fordham University
+* Fordham University
+  * Lecturer: Sep 2023 - June 2024
+  * P.M.C Visiting Assistant Professor: Sep 2019 - Aug 2023
  
-* Fall 2016: Hill Assistant Professor
-  * Rutgers University
+* Rutgers University
+  * Hill Assistant Professor: Sep 2016 - Jul 2019
 
 Publications
 ======
