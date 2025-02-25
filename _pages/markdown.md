@@ -14,12 +14,8 @@ The little one was born at Jersey City Medical Center, NJ, 2020.
 
 “`
    这是第一行
-
    这是第二行
-
-   这是一行文字，
-   这是一行文字的下一行
-   “`
+“`
    
 My Chinese poem (just for fun):
 
