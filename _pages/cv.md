@@ -28,22 +28,41 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* The singular sets of degenerate and nonlocal elliptic equations on Poincaré-Einstein manifolds, with Y. Sire, R. Zhang, Submitted.
+
+* A continuous cusp closing process for negative Kähler-Einstein metrics, with Xin Fu and Hans-Joachim Hein, 
+To appear at Geom. Func. Anal.
+
+* Asymptotics of Kähler-Einstein metrics on complex hyperbolic cusps, with X. Fu, H.-J. Hein,
+Calc. Val. P.D.E., https://doi.org/10.1007/s00526-023-02613-4
+
+* The Loewner-Nirenberg Problem in cones, with Q. Han, W. Shen,
+Accepted at J. Funct. Anal.
+
+* Boundary expansion for the Loewner-Nirenberg problem in domains with conic singularities, 
+J. Funct. Anal. 281 (2021), no. 7, 109122. 35 (58)
+
+* Free-boundary regularity on the focusing problem for the $Q_k$ Curvature Flow with flat sides I,  with Ling Xiao,
+J. Funct. Anal. 280 (2021), no. 2, 108792, 37 pp. 53E10
+
+* Asymptotic expansions of complete Kähler-Einstein metrics with finite volume  on quasi-projective manifolds, with Yalong Shi,
+Sci. China Math. 65 (2022), no. 9, 1953–1974
+
+* Optimal regularity of constant curvature graphs in Hyperbolic space, with L. Xiao,
+Calc. Var. P.D.E., 58:133 (2019)
+
+* Isometric embedding with nonnegative Gauss curvature under the graph setting,
+Discrete Contin. Dyn. Syst. 39 (2019), no. 6, 3463–3477.
+
+* Asymptotics and convergence for the complex Monge-Ampere equation, with Q. Han, 
+Annals of PDE, https://doi.org/10.1007/s40818-024-00171-2
+
+* Boundary regularity of minimal graphs in the hyperbolic space, with Q. Han,
+Journal für die reine und angewandte Mathematik, https://doi.org/10.1515/crelle-2023-0040
+
+* The convergence of boundary expansions and the analyticity of minimal surfaces in the hyperbolic space, with Q. Han,
+submitted.
+
+* Boundary expansions for minimal graphs in the hyperbolic space, Thesis (Ph.D.), University of Notre Dame (2016).
+
