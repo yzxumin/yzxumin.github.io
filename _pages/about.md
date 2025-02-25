@@ -11,6 +11,6 @@ I am an assistant professor at Great Bay University since Fall 2024. I was a PMC
 
 My research interests are Analysis of Partial Differential Equations and Differential Geometry. 
 
-You can find my [CV](../assets/CV.PDF) here.
+You can find my [CV](../assets/CV.pdf) here.
 
 <br/><img src='/images/pic1.jpg' width = '500'>
