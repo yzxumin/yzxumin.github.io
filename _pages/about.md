@@ -28,4 +28,6 @@ Mailing Address:
 
 Great Bay University, Songshanhu Campus
 
-Dongguan, Guangdong Province, China 523000
+Dongguan, Guangdong Province
+
+China 523000
