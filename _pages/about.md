@@ -13,4 +13,4 @@ My research interests are Analysis of Partial Differential Equations and Differe
 
 You can find my [CV](https://drive.weixin.qq.com/s?k=AFoAdgcsACgi48Mg1y) here.
 
-<br/><img src='/images/xj.png' width = '400'>
+<br/><img src='/images/pic1.jpg' width = '500'>
