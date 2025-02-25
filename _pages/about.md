@@ -14,3 +14,15 @@ My research interests are Analysis of Partial Differential Equations and Differe
 You can find my [CV](../assets/CV.pdf) here.
 
 <br/><img src='/images/pic1.jpg' width = '500'>
+
+Email: xjiang@gbu.edu.cn
+
+Office: B502 Academic Building
+
+Mailing Address:
+
+[School of Science](https://www.gbu.edu.cn/menu/86)
+
+Great Bay University, Songshanhu Campus
+
+Dongguan, Guangdong Province, China 523000
