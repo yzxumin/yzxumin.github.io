@@ -12,16 +12,7 @@ The little one was born at Jersey City Medical Center, NJ, 2020.
 
 <br/><img src='/images/jiangrui.jpg' width = '300'>
 
-“`html
-
-这是第一行
-
-
-
-这是第二行
-
-“`
-   
+<br><br>
 My Chinese poem (just for fun):
 
 梦今生 (Dream of life)
@@ -52,6 +43,7 @@ By Xumin Jiang, Feb 9, 2007
 
 炳坤喻为天下知  
 
+<br>
 箜篌蔽叶昆仑剑
 荒桦凤鸣已十年
 蒲缛檀古飘暮雪
