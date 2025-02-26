@@ -17,7 +17,7 @@ Education
 Employment
 ======
 * Great Bay University
-  * Assistant Professor: Jun 2024 - present
+  * Assistant Professor: Jul 2024 - present
 
 * Fordham University
   * Lecturer: Sep 2023 - June 2024
