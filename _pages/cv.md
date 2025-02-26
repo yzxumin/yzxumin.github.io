@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mathematics, University of Notre Dame, 2016
+* Ph.D. in Mathematics, University of Notre Dame (USA), 2016
 * Ph.D. candidate in Mathematics, Nanjing University, 2011
 * B.S. in Computer Science and Technolodge, Nanjing University, 2008
 
