@@ -19,9 +19,6 @@ You can find my [CV](../assets/CV.pdf) here.
 Email: [xjiang@gbu.edu.cn](xjiang@gbu.edu.cn)
 
 
-Office: B502 Academic Building
-
-
 Mailing Address:
 
 [School of Science](https://www.gbu.edu.cn/menu/86)
