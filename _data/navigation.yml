@@ -20,3 +20,6 @@ main:
     
   - title: "About me"
     url: /markdown/
+
+  - title: "Links"
+    url: /portfolio/
