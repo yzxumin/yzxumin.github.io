@@ -338,7 +338,7 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 
 
 <br><br><br><br><br><br>
-这篇有点猎奇，不喜欢的请略过。
+这篇猎奇，不喜欢请略过。
 
 臧灵祷告 by Xumin Jiang, 2006.4.14 于南大浦园 
 
