@@ -592,7 +592,7 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 
 还好我只是渺小的屠夫
 
-不然整个世界也被毁灭
+不然整个世界也我被毁灭
 
 <br>
 上帝啊
