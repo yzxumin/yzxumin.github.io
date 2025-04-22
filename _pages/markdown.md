@@ -213,6 +213,8 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 
 跟我走吧
 
+<br>
+
 你看
 
 晴天的阳光依旧这么灿烂
@@ -227,7 +229,7 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 
 每片新生的叶子都是我的请柬
 
-每一根叶脉都写着我的思念
+叶脉上写着我的思念
 
 每一朵花儿都感染了我思念的苦
 
@@ -240,6 +242,8 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 提起你的花篮
 
 跟着我来
+
+<br>
 
 这一路必不漫长
 
@@ -273,6 +277,8 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 
 一起度过
 
+<br>
+
 我将在你的脚下铺垫软荇
 
 先别管这许多的松泥
@@ -288,6 +294,8 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 这一路都有茉莉的馨香
 
 卖花的女孩，跟我走吧
+
+<br>
 
 请别再哭泣
 
