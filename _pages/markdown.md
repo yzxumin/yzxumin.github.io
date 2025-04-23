@@ -169,6 +169,7 @@ By Xumin Jiang, Feb 9, 2007
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 一篇散文，年代悠久，对细节我已经失去了解释权。
 
@@ -336,9 +337,10 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 
 
 
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-这篇猎奇，不喜欢请略过。
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+这篇猎奇，不喜请略过。
 
 臧灵祷告 by Xumin Jiang, 2006.4.14 于南大浦园 
 
