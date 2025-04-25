@@ -1026,7 +1026,6 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 
 附：
 
-<br>
 把竹篮支成月亮的形状
 
 撒一把星星般的米粒
