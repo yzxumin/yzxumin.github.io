@@ -686,7 +686,7 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 
 一篇姐妹篇
 
-罪孽祷辞 2025/4/25旧作改编
+罪孽祷辞 2025/4/25改编
 
 <br>
 荒原的裂缝里钻出荆棘的骸骨
