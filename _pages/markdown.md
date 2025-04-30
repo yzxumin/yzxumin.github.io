@@ -1057,9 +1057,7 @@ Flower Girl Come With Me By Xumin Jiang Apr 1,2006
 
 在我掌心渐渐透明
 
-我才读懂生命的重量
-
-可以很轻
+我才读懂生命的重量可以很轻
 
 <br>
 自行车篓摇晃成摇篮
