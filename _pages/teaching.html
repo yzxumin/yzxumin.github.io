@@ -9,201 +9,208 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Teaching Experience</title>
+    <title>Teaching Experience | Your Name</title>
+    <!-- Inherit site styles (critical for layout consistency) -->
     <style>
-        /* Basic reset and typography */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Times New Roman', Times, serif;
+        /* Minimal, non-conflicting styles (inherits site CSS first) */
+        .teaching-section {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
         }
 
-        body {
-            max-width: 8.5in; /* Match typical paper width */
-            margin: 1in auto;
-            line-height: 1.4;
-            font-size: 12pt; /* LaTeX default font size */
+        .university-heading {
+            font-weight: 700;
+            font-size: 1.1rem;
+            margin: 1.5rem 0 0.75rem 0;
+            color: #222;
         }
 
-        /* University header style (bold like \textbf) */
-        .university {
-            font-weight: bold;
-            margin: 1em 0 0.5em 0;
-        }
-
-        /* Table styling to match LaTeX tabular */
         .teaching-table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 1em;
+            margin-bottom: 1.5rem;
+            font-size: 0.95rem;
         }
 
-        /* Column widths matching LaTeX p{0.4in}p{0.3in}p{4in} */
         .teaching-table td {
-            padding: 0.2em 0;
+            padding: 0.4rem 0.2rem;
             vertical-align: top;
+            border: none;
         }
 
-        .teaching-table td:nth-child(1) { width: 0.4in; }
-        .teaching-table td:nth-child(2) { width: 0.3in; }
-        .teaching-table td:nth-child(3) { width: 4in; }
+        /* Column width ratio matching original LaTeX (responsive) */
+        .teaching-table td:nth-child(1) { width: 10%; }
+        .teaching-table td:nth-child(2) { width: 8%; }
+        .teaching-table td:nth-child(3) { width: 82%; }
 
-        /* Responsive adjustment for small screens */
+        /* Mobile adaptation (matches site responsiveness) */
         @media (max-width: 768px) {
-            body {
-                margin: 1em;
-                max-width: 100%;
+            .teaching-section {
+                padding: 1rem;
+                margin: 0;
             }
             .teaching-table td {
                 width: auto !important;
-                padding: 0.2em 0.5em;
+                display: table-cell;
+                padding: 0.3rem 0.5rem;
             }
+        }
+
+        /* Match site's body text style */
+        .teaching-intro {
+            font-size: 1rem;
+            margin-bottom: 1.5rem;
         }
     </style>
 </head>
 <body>
-    <p>I am teaching a small class of Mathematical Analysis in 2025.</p>
-    <p>List of courses that I have taught:</p>
+    <div class="teaching-section">
+        <p class="teaching-intro">I am teaching a small class of Mathematical Analysis in 2025.</p>
+        <p class="teaching-intro">List of courses that I have taught:</p>
 
-    <!-- Fordham University -->
-    <div class="university">Fordham University</div>
-    <table class="teaching-table">
-        <tr>
-            <td>Spring</td>
-            <td>2024</td>
-            <td>Math 2006 Linear algebra I</td>
-        </tr>
-        <tr>
-            <td>Spring</td>
-            <td>2024</td>
-            <td>Math 1203 Applied Calculus I (3 sessions)</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2023</td>
-            <td>Math 1700 Math Modeling</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2023</td>
-            <td>Math 1108 Math for Business: Finite (2 sessions)</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2023</td>
-            <td>Math 1207 Calculus II</td>
-        </tr>
-        <tr>
-            <td>Spring</td>
-            <td>2023</td>
-            <td>Math 1207 Calculus II (2 sessions)</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2022</td>
-            <td>Math 1206 Calculus I (2 sessions)</td>
-        </tr>
-        <tr>
-            <td>Spring</td>
-            <td>2022</td>
-            <td>Math 1207 Calculus II (2 sessions)</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2021</td>
-            <td>Math 1206 Calculus I (2 sessions)</td>
-        </tr>
-        <tr>
-            <td>Spring</td>
-            <td>2021</td>
-            <td>Math 1207 Calculus II</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2020</td>
-            <td>Math 1108 Math for Business: Finite (2 sessions)</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2020</td>
-            <td>Math 2005 Multivariable Calculus II</td>
-        </tr>
-        <tr>
-            <td>Spring</td>
-            <td>2020</td>
-            <td>Math 1207  Calculus II (2 sessions)</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2019</td>
-            <td>Math 1100 Finite Mathematics</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2019</td>
-            <td>Math 1206 Calculus I</td>
-        </tr>
-    </table>
+        <!-- Fordham University -->
+        <h3 class="university-heading">Fordham University</h3>
+        <table class="teaching-table">
+            <tr>
+                <td>Spring</td>
+                <td>2024</td>
+                <td>Math 2006 Linear algebra I</td>
+            </tr>
+            <tr>
+                <td>Spring</td>
+                <td>2024</td>
+                <td>Math 1203 Applied Calculus I (3 sessions)</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2023</td>
+                <td>Math 1700 Math Modeling</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2023</td>
+                <td>Math 1108 Math for Business: Finite (2 sessions)</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2023</td>
+                <td>Math 1207 Calculus II</td>
+            </tr>
+            <tr>
+                <td>Spring</td>
+                <td>2023</td>
+                <td>Math 1207 Calculus II (2 sessions)</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2022</td>
+                <td>Math 1206 Calculus I (2 sessions)</td>
+            </tr>
+            <tr>
+                <td>Spring</td>
+                <td>2022</td>
+                <td>Math 1207 Calculus II (2 sessions)</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2021</td>
+                <td>Math 1206 Calculus I (2 sessions)</td>
+            </tr>
+            <tr>
+                <td>Spring</td>
+                <td>2021</td>
+                <td>Math 1207 Calculus II</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2020</td>
+                <td>Math 1108 Math for Business: Finite (2 sessions)</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2020</td>
+                <td>Math 2005 Multivariable Calculus II</td>
+            </tr>
+            <tr>
+                <td>Spring</td>
+                <td>2020</td>
+                <td>Math 1207  Calculus II (2 sessions)</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2019</td>
+                <td>Math 1100 Finite Mathematics</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2019</td>
+                <td>Math 1206 Calculus I</td>
+            </tr>
+        </table>
 
-    <!-- Rutgers University -->
-    <div class="university">Rutgers University</div>
-    <table class="teaching-table">
-        <tr>
-            <td>Spring</td>
-            <td>2019</td>
-            <td>Math 350 Linear algebra</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2018</td>
-            <td>Math 151 Calculus I for Mathematical and Physical Sciences</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2018</td>
-            <td>Math 152 Calculus II for Mathematical and Physical Sciences</td>
-        </tr>
-        <tr>
-            <td>Spring</td>
-            <td>2018</td>
-            <td>Math 151 Calculus I for Mathematical and Physical Sciences</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2017</td>
-            <td>Math 252 Elementary Differential Equations,</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2017</td>
-            <td>Math 251 Multivariable Calculus</td>
-        </tr>
-        <tr>
-            <td>Spring</td>
-            <td>2017</td>
-            <td>Math 350 Linear Algebra</td>
-        </tr>
-        <tr>
-            <td>Spring</td>
-            <td>2017</td>
-            <td>Math 152 Calculus II for Mathematical and Physical Sciences</td>
-        </tr>
-        <tr>
-            <td>Fall</td>
-            <td>2016</td>
-            <td>Math 151 Calculus I for Mathematical and Physical Sciences</td>
-        </tr>
-    </table>
+        <!-- Rutgers University -->
+        <h3 class="university-heading">Rutgers University</h3>
+        <table class="teaching-table">
+            <tr>
+                <td>Spring</td>
+                <td>2019</td>
+                <td>Math 350 Linear algebra</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2018</td>
+                <td>Math 151 Calculus I for Mathematical and Physical Sciences</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2018</td>
+                <td>Math 152 Calculus II for Mathematical and Physical Sciences</td>
+            </tr>
+            <tr>
+                <td>Spring</td>
+                <td>2018</td>
+                <td>Math 151 Calculus I for Mathematical and Physical Sciences</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2017</td>
+                <td>Math 252 Elementary Differential Equations,</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2017</td>
+                <td>Math 251 Multivariable Calculus</td>
+            </tr>
+            <tr>
+                <td>Spring</td>
+                <td>2017</td>
+                <td>Math 350 Linear Algebra</td>
+            </tr>
+            <tr>
+                <td>Spring</td>
+                <td>2017</td>
+                <td>Math 152 Calculus II for Mathematical and Physical Sciences</td>
+            </tr>
+            <tr>
+                <td>Fall</td>
+                <td>2016</td>
+                <td>Math 151 Calculus I for Mathematical and Physical Sciences</td>
+            </tr>
+        </table>
 
-    <!-- University of Notre Dame -->
-    <div class="university">University of Notre Dame</div>
-    <table class="teaching-table">
-        <tr>
-            <td>Fall</td>
-            <td>2015</td>
-            <td>Math 10350 Calculus A</td>
-        </tr>
-    </table>
+        <!-- University of Notre Dame -->
+        <h3 class="university-heading">University of Notre Dame</h3>
+        <table class="teaching-table">
+            <tr>
+                <td>Fall</td>
+                <td>2015</td>
+                <td>Math 10350 Calculus A</td>
+            </tr>
+        </table>
+    </div>
 </body>
 </html>
