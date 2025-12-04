@@ -11,7 +11,7 @@ I am an associate professor at [Great Bay University](https://www.gbu.edu.cn/det
 
 My research interests are Analysis of Partial Differential Equations and Differential Geometry. 
 
-You can find my [CV](../assets/CV.pdf) here.
+You can find my [CV](../assets/CV2025.pdf) here.
 
 <br/><img src='/images/pic1.jpg' width = '500'>
 
