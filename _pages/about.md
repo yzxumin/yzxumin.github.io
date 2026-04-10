@@ -16,6 +16,8 @@ You can find my [CV](../assets/CV2025.pdf) here.
 <br/><img src='/images/pic1.jpg' width = '500'>
 
 
+Recruiting domestic or international posrdoctoral researchers to join my research team. Please comtact:
+
 Email: [xjiang@gbu.edu.cn](xjiang@gbu.edu.cn)
 
 Office: E503D No 8 Building
