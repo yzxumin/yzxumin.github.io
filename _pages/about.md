@@ -16,7 +16,7 @@ You can find my [CV](../assets/CV2025.pdf) here.
 <br/><img src='/images/pic1.jpg' width = '500'>
 
 
-Recruiting domestic and international postdoctoral researchers to join my research team. Please comtact:
+Recruiting domestic and international postdoctoral researchers to join my research team. Please contact me at:
 
 Email: [xjiang@gbu.edu.cn](xjiang@gbu.edu.cn)
 
